@@ -1,0 +1,1 @@
+This is commit 6001 in Repo bum1.
