@@ -1,0 +1,1 @@
+This is commit 7000 in Repo bum1.
