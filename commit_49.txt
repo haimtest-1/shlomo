@@ -1,0 +1,1 @@
+This is commit 50 in Repo bum1.
